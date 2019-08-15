@@ -6,5 +6,4 @@ Just checking out Github Pages
 
 Even I can do it
 
-```markdown
 
