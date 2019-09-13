@@ -11,3 +11,5 @@
   * [New Page](google-doc/untitled/new-page.md)
 
 # EE Other Playbooks
+
+* [Playbooks](playbook-list.md)
