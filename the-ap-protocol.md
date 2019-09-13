@@ -1,3 +1,5 @@
+# The Advice Process Protocols
+
 ## The Advice Process Protocol
 
 It’s important to understand where the Advice Process fits into different decision-making frameworks. This helps frame what it is, and also what it isn’t.
@@ -14,7 +16,7 @@ Below is an attempt to show how the different decision-making protocols align:
 
 | Only me | Me and my mate | Group |
 | :--- | :--- | :--- |
-| ![](../.gitbook/assets/1.png) | ![](../.gitbook/assets/2.png) | ![](../.gitbook/assets/3.png) |
+| ![](.gitbook/assets/1.png) | ![](.gitbook/assets/2.png) | ![](.gitbook/assets/3.png) |
 
 From: [London - Decentralised Decision Making - April 2019](https://docs.google.com/presentation/d/1coels2ur22VV9Hpmy02WTlYY-QIJ5rayWtv75hQYb8E/edit?usp=sharing)
 
@@ -23,15 +25,15 @@ From: [London - Decentralised Decision Making - April 2019](https://docs.google.
 | **Decision protocol** | **How the decision is made** |
 | :--- | :--- |
 | Consensus | Seeks as much agreement as possible, so there is a general agreement around the proposal. Impact: your proposal moves to match that of the group despite your preference. |
-| ![](../.gitbook/assets/4.png) |  |
+| ![](.gitbook/assets/4.png) |  |
 | Consent | Seeks to remove objections or gain ‘permission’ on the proposal; “I’ll proceed if no one objects.” Impact: If you can’t remove objections to your proposal, then it fails to proceed. |
-| ![](../.gitbook/assets/5.png) |  |
+| ![](.gitbook/assets/5.png) |  |
 | Democratic | Seeks to bring a proposal to the point where a simple majority prefer or tolerate it. Impact: Your proposal moves to where you think you can gain sufficient support to proceed. |
-| ![](../.gitbook/assets/6.png) |  |
+| ![](.gitbook/assets/6.png) |  |
 | **Advice \(Process\)** | **Seeks input, establishes decision maker’s preference, decision then made based on that preference. Impact: Your decision aligns with what you think is the** _**best course of action for the proposal.**_ |
-| ![](../.gitbook/assets/7.png) |  |
+| ![](.gitbook/assets/7.png) |  |
 | Mandate | Decision made within the boundaries of decision maker’s role. “I’ll proceed if I prefer.” Impact: The proposal aligns with the decision maker’s preference, but often without testing the proposal. |
-| ![](../.gitbook/assets/8.png) |  |
+| ![](.gitbook/assets/8.png) |  |
 
 ### Different Characteristics of the Different Protocols
 
@@ -44,8 +46,6 @@ In the ‘Benefits of the Advice Process’ section above, we identified four ke
 | **Democratic** | YES | NO | YES | ? |
 | **Advice \(Process\)** | YES | YES | YES | YES |
 | **Mandate** | NO | YES | NO | ? |
-
-### 
 
 #### Advice vs. Consensus, Consent & Democratic Protocols
 
@@ -60,9 +60,7 @@ In contrast, with the Advice Process:
 * People are motivated when they feel they have ownership of what’s happening. That ownership just doesn’t exist in the same way with a vote.
 * People work hard to make the right decision when they are clearly accountable.
 
-_“In the Advice Process when someone only gets to give advice, they know someone heard what they had to say. They made their case. They had a conversation. They didn’t just cast a ballot.”_[_\[1\]_]()
-
-#### 
+_“In the Advice Process when someone only gets to give advice, they know someone heard what they had to say. They made their case. They had a conversation. They didn’t just cast a ballot.”_[_\[1\]_](the-ap-protocol.md)
 
 #### Advice vs. Mandate
 
@@ -76,7 +74,7 @@ We can illustrate what we mean with the metaphor of a navy vs. pirates \(arrr!\)
 
 A simplified decentralisation model would look at who makes the most important decisions \(and who can overrule the decisions made by others\):
 
-![](../.gitbook/assets/9.png)
+![](.gitbook/assets/9.png)
 
 EE sits more towards the Pirate end of this model, with highly agile teams allowing quick decision making. However, we should note the reality; the Navy won and the Golden Age of Pirates came to an end. So does that mean that highly centralised decision making beats highly decentralised?
 
@@ -84,86 +82,76 @@ EE sits more towards the Pirate end of this model, with highly agile teams allow
 
 The big advantage that central command has is being able to create the big picture view that allows for better strategic decisions. Information flows from nodes into the central command, allowing a strategic picture to be created. Decisions made locally are small and can be overridden by central command.
 
-![](../.gitbook/assets/10.png)
+![](.gitbook/assets/10.png)
 
-![](../.gitbook/assets/11.png)
+![](.gitbook/assets/11.png)
 
 Compare this to the pirate model, where bigger decisions are made at the point where information is generated. This creates the ability to respond in a highly agile way, but there’s limited ability to build up the big picture, because the information doesn’t flow around the network. No single node has the necessary context to create a quality strategy.
 
-![](../.gitbook/assets/12.png)
+![](.gitbook/assets/12.png)
 
 So, to create the best of both worlds, you need a highly connected ‘Digital Pirate’. Agility is maintained as decisions are made where the action is; however, the local nodes are highly connected and share information. This gives them access to the big picture context, which allows them to make high quality strategic decisions.
 
-![](../.gitbook/assets/13.png)
+![](.gitbook/assets/13.png)
+
+| **Independent, decentralised Decision Makers \(Pirate\)** | **Independent, decentralised Decision Makers, with highly connected decision information \(Digital Pirate\)** | **Centralised Decision Maker \(Navy\)** |
+| :--- | :--- | :--- |
+
+
+| ![](.gitbook/assets/14.png) | ![](.gitbook/assets/15.png) | ![](.gitbook/assets/16.png) |
+| :--- | :--- | :--- |
+
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>Independent, decentralised Decision Makers (Pirate)</b>
+      <th style="text-align:left">
+        <ul>
+          <li>Highly agile</li>
+          <li>Decisions made directly by those on the ground</li>
+        </ul>
       </th>
-      <th style="text-align:left"><b>Independent, decentralised Decision Makers, with highly connected decision information (Digital Pirate)</b>
+      <th style="text-align:left">
+        <ul>
+          <li>Highly agile</li>
+          <li>Decisions made directly by those on the ground</li>
+          <li>Information network feed to the decision makers</li>
+          <li>Decision makers have big picture awareness and context</li>
+        </ul>
       </th>
-      <th style="text-align:left"><b>Centralised Decision Maker (Navy)</b>
+      <th style="text-align:left">
+        <ul>
+          <li>Information network feed to the decision makers</li>
+          <li>Decision makers have big picture awareness and context</li>
+        </ul>
       </th>
     </tr>
   </thead>
-  <tbody>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/14.png" alt/>
-      </td>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/15.png" alt/>
-      </td>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/16.png" alt/>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <ul>
-          <li>Highly agile</li>
-          <li>Decisions made directly by those on the ground</li>
-        </ul>
-      </td>
-      <td style="text-align:left">
-        <ul>
-          <li>Highly agile</li>
-          <li>Decisions made directly by those on the ground</li>
-          <li>Information network feed to the decision makers</li>
-          <li>Decision makers have big picture awareness and context</li>
-        </ul>
-      </td>
-      <td style="text-align:left">
-        <ul>
-          <li>Information network feed to the decision makers</li>
-          <li>Decision makers have big picture awareness and context</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
+      <th style="text-align:left">
         <ul>
           <li>Decision makers lack big picture awareness</li>
           <li>Limited channels of information between Decision makers</li>
         </ul>
-      </td>
-      <td style="text-align:left">
+      </th>
+      <th style="text-align:left">
         <ul>
           <li>HIgh effort communications channels between Decision Makers</li>
         </ul>
-      </td>
-      <td style="text-align:left">
+      </th>
+      <th style="text-align:left">
         <ul>
           <li>Limited agility &amp; pace of local response</li>
           <li>Decisions made by indirect decision makers (those without local awareness)</li>
         </ul>
-      </td>
+      </th>
     </tr>
-  </tbody>
-</table>The first key take-away: to truly benefit from a decentralised decision making process, decision makers must have access to information that allows them to make a high quality decision. This is more than the local, situational awareness that comes with ‘being on the ground’; it includes knowing the wider strategic context. Information must flow freely around the network, and access to experts hierarchy and organisational information must not be restricted. If you don’t want to go the way of the Golden Age Pirates, high quality information flow across the network is key to maintaining a decentralised model.
-
-This information flow must come from all directions – it’s not only the responsibility of “The Management”. Teams have an obligation to share information about their local context out to the wider organisation.
+  </thead>
+  <tbody></tbody>
+</table>This information flow must come from all directions – it’s not only the responsibility of “The Management”. Teams have an obligation to share information about their local context out to the wider organisation.
 
 Once a high-quality information flow is in place, a second key take-way is that those higher up the hierarchy must enact trust in the local decision makers to use this information to make the right decision, locally. With all the information in the world, if central command doesn’t trust people to make decisions on behalf of the organisation, the decentralised model will revert to command and control.
 
@@ -181,7 +169,7 @@ At Equal Experts we hold a log of all APs published. This allows us to answer th
   <thead>
     <tr>
       <th style="text-align:left">
-        <img src="../.gitbook/assets/17.png" alt/>
+        <img src=".gitbook/assets/17.png" alt/>
       </th>
       <th style="text-align:left">
         <p>If distribution of decisions is desired then:</p>
@@ -194,4 +182,4 @@ At Equal Experts we hold a log of all APs published. This allows us to answer th
     </tr>
   </thead>
   <tbody></tbody>
-</table>+++++++++++++++
+</table>

@@ -1,6 +1,2 @@
----
-description: Why not
----
-
-# Title Page
+# The Advice Process
 

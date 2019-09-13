@@ -7,5 +7,6 @@
 
 ## Google Doc
 
-* [Upload from google docs](google-doc/untitled.md)
+* [Upload from google docs](google-doc/untitled/README.md)
+  * [New Page](google-doc/untitled/new-page.md)
 

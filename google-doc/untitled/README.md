@@ -1,4 +1,4 @@
-# Untitled
+# Upload from google docs
 
 Advice Process Playbook
 
@@ -6,7 +6,7 @@ Advice Process Playbook
 
 [www.playbook.ee](http://www.playbook.ee/)
 
-1. Introduction
+1. Introduction - Hi 
 
 **We wrote this playbook to share our ongoing experience of a real-world implementation of the Advice Process at Equal Experts, and related non-conventional approaches to running a company.**
 
@@ -155,7 +155,7 @@ All this AP business would seem a lot of effort, if there weren’t significant 
 
 ## The Process in a Picture
 
-![](../.gitbook/assets/0.png)
+![](../../.gitbook/assets/0.png)
 
 +++++++
 
@@ -213,7 +213,7 @@ Below is an attempt to show how the different decision-making protocols align:
 
 | Only me | Me and my mate | Group |
 | :--- | :--- | :--- |
-| ![](../.gitbook/assets/1.png) | ![](../.gitbook/assets/2.png) | ![](../.gitbook/assets/3.png) |
+| ![](../../.gitbook/assets/1.png) | ![](../../.gitbook/assets/2.png) | ![](../../.gitbook/assets/3.png) |
 
 From: [London - Decentralised Decision Making - April 2019](https://docs.google.com/presentation/d/1coels2ur22VV9Hpmy02WTlYY-QIJ5rayWtv75hQYb8E/edit?usp=sharing)
 
@@ -222,15 +222,15 @@ From: [London - Decentralised Decision Making - April 2019](https://docs.google.
 | **Decision protocol** | **How the decision is made** |
 | :--- | :--- |
 | Consensus | Seeks as much agreement as possible, so there is a general agreement around the proposal. Impact: your proposal moves to match that of the group despite your preference. |
-| ![](../.gitbook/assets/4.png) |  |
+| ![](../../.gitbook/assets/4.png) |  |
 | Consent | Seeks to remove objections or gain ‘permission’ on the proposal; “I’ll proceed if no one objects.” Impact: If you can’t remove objections to your proposal, then it fails to proceed. |
-| ![](../.gitbook/assets/5.png) |  |
+| ![](../../.gitbook/assets/5.png) |  |
 | Democratic | Seeks to bring a proposal to the point where a simple majority prefer or tolerate it. Impact: Your proposal moves to where you think you can gain sufficient support to proceed. |
-| ![](../.gitbook/assets/6.png) |  |
+| ![](../../.gitbook/assets/6.png) |  |
 | **Advice \(Process\)** | **Seeks input, establishes decision maker’s preference, decision then made based on that preference. Impact: Your decision aligns with what you think is the** _**best course of action for the proposal.**_ |
-| ![](../.gitbook/assets/7.png) |  |
+| ![](../../.gitbook/assets/7.png) |  |
 | Mandate | Decision made within the boundaries of decision maker’s role. “I’ll proceed if I prefer.” Impact: The proposal aligns with the decision maker’s preference, but often without testing the proposal. |
-| ![](../.gitbook/assets/8.png) |  |
+| ![](../../.gitbook/assets/8.png) |  |
 
 ### Different Characteristics of the Different Protocols
 
@@ -275,7 +275,7 @@ We can illustrate what we mean with the metaphor of a navy vs. pirates \(arrr!\)
 
 A simplified decentralisation model would look at who makes the most important decisions \(and who can overrule the decisions made by others\):
 
-![](../.gitbook/assets/9.png)
+![](../../.gitbook/assets/9.png)
 
 EE sits more towards the Pirate end of this model, with highly agile teams allowing quick decision making. However, we should note the reality; the Navy won and the Golden Age of Pirates came to an end. So does that mean that highly centralised decision making beats highly decentralised?
 
@@ -283,17 +283,17 @@ EE sits more towards the Pirate end of this model, with highly agile teams allow
 
 The big advantage that central command has is being able to create the big picture view that allows for better strategic decisions. Information flows from nodes into the central command, allowing a strategic picture to be created. Decisions made locally are small and can be overridden by central command.
 
-![](../.gitbook/assets/10.png)
+![](../../.gitbook/assets/10.png)
 
-![](../.gitbook/assets/11.png)
+![](../../.gitbook/assets/11.png)
 
 Compare this to the pirate model, where bigger decisions are made at the point where information is generated. This creates the ability to respond in a highly agile way, but there’s limited ability to build up the big picture, because the information doesn’t flow around the network. No single node has the necessary context to create a quality strategy.
 
-![](../.gitbook/assets/12.png)
+![](../../.gitbook/assets/12.png)
 
 So, to create the best of both worlds, you need a highly connected ‘Digital Pirate’. Agility is maintained as decisions are made where the action is; however, the local nodes are highly connected and share information. This gives them access to the big picture context, which allows them to make high quality strategic decisions.
 
-![](../.gitbook/assets/13.png)
+![](../../.gitbook/assets/13.png)
 
 <table>
   <thead>
@@ -309,13 +309,13 @@ So, to create the best of both worlds, you need a highly connected ‘Digital Pi
   <tbody>
     <tr>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/14.png" alt/>
+        <img src="../../.gitbook/assets/14.png" alt/>
       </td>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/15.png" alt/>
+        <img src="../../.gitbook/assets/15.png" alt/>
       </td>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/16.png" alt/>
+        <img src="../../.gitbook/assets/16.png" alt/>
       </td>
     </tr>
     <tr>
@@ -380,7 +380,7 @@ At Equal Experts we hold a log of all APs published. This allows us to answer th
   <thead>
     <tr>
       <th style="text-align:left">
-        <img src="../.gitbook/assets/17.png" alt/>
+        <img src="../../.gitbook/assets/17.png" alt/>
       </th>
       <th style="text-align:left">
         <p>If distribution of decisions is desired then:</p>
@@ -399,7 +399,7 @@ At Equal Experts we hold a log of all APs published. This allows us to answer th
 
 ## The Advice Process, illustrated
 
-![](../.gitbook/assets/18.png)
+![](../../.gitbook/assets/18.png)
 
 Here’s a brief overview of each stage of the AP. We’ll then explore each in more detail.
 
@@ -616,7 +616,7 @@ Our governance is more lean start-up than corporate take-over. Its design is bas
 
 Here’s our governance set-up:
 
-![](../.gitbook/assets/19.png)
+![](../../.gitbook/assets/19.png)
 
 ### Governance Group Mandate
 
@@ -633,7 +633,7 @@ The governance group should:
 
 The intent is that the people doing the governance are different from initiative to initiative. And people are not part of more than two governance processes at any point in time..
 
-![](../.gitbook/assets/20.png)
+![](../../.gitbook/assets/20.png)
 
 Hints & Tips
 
@@ -883,7 +883,7 @@ We really hope you found this playbook useful. If you want to chat about its con
 * Follow us on Twitter @EqualExperts or find us on LinkedIn.
 * This Advice Process Playbook was created by [Dave Hewett,](https://www.linkedin.com/in/dave-hewett-b97609) Thomas de Cad'oro Granier, Chris Cobb, Lyndsay Prewer and the amazing folks at [Equal Experts](https://www.equalexperts.com/).
 * This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) which means you can modify it and use it, even for commercial purposes, as long as you give credit and distribute under the same license.
-* ![Creative Commons Licence](../.gitbook/assets/21.png)
+* ![Creative Commons Licence](../../.gitbook/assets/21.png)
 * We’d like to say a massive “Thank You!” to our colleagues and clients, the brilliant hive mind whose wisdom and experience has made this into what it is.
 * **This book is dedicated to you**, and all the colleagues, clients and friends who put up with our poorly designed, painfully scattered earlier attempts at implementing the Advice Process… It’s a journey...
 * Specific thanks to those who helped us making this happen: A B C
