@@ -9,9 +9,7 @@
 
 * [Upload from google docs](google-doc/untitled/README.md)
   * [New Page](google-doc/untitled/new-page.md)
+* [Playbooks](readme-playbooks/README.md)
+  * [Inception Playbook](readme-playbooks/playbook-list.md)
+  * [Security Playbook](readme-playbooks/new-page.md)
 
-# EE Other Playbooks
-
-* [Playbooks](readme-playbooks.md)
-* [Playbooks](playbook-list.md)
-* [New Page](google-doc/untitled/new-page.md)
