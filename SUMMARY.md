@@ -12,5 +12,6 @@
 
 # EE Other Playbooks
 
+* [Playbooks](readme-playbooks.md)
 * [Playbooks](playbook-list.md)
 * [New Page](google-doc/untitled/new-page.md)
