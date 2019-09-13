@@ -5,7 +5,7 @@
 * [Intro](1.introduction.md)
 * [The Advice Process Protocols](the-ap-protocol.md)
 
-## Google Doc
+# Google Doc
 
 * [Upload from google docs](google-doc/untitled/README.md)
   * [New Page](google-doc/untitled/new-page.md)
