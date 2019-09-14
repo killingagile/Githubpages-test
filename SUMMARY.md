@@ -1,8 +1,8 @@
 # Table of contents
 
 * [The Advice Process](README.md)
-* [Background](2.background.md)
 * [Intro](1.introduction.md)
+* [Background](2.background.md)
 * [The Advice Process Protocols](the-ap-protocol.md)
 
 ## Google Doc
