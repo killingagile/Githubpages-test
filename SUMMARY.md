@@ -7,12 +7,13 @@
 
 ## Our Other Playbooks <a id="google-doc"></a>
 
-* [Upload from google docs](google-doc/untitled.md)
 * [Inceptions](https://www.playbook.ee)
 * [Security](https://www.playbook.ee)
 * [Advice Process](https://www.playbook.ee)
 
 ## Security Playbook
 
-* [Untitled](security-playbook/untitled.md)
+## Google Doc Upload
+
+* [Upload from google docs](google-doc-upload/untitled-1.md)
 
