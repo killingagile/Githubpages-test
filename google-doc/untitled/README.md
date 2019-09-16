@@ -155,7 +155,7 @@ All this AP business would seem a lot of effort, if there weren’t significant 
 
 ## The Process in a Picture
 
-![](../../.gitbook/assets/0.png)
+![](../../.gitbook/assets/0%20%281%29.png)
 
 +++++++
 
@@ -213,7 +213,7 @@ Below is an attempt to show how the different decision-making protocols align:
 
 | Only me | Me and my mate | Group |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/1.png) | ![](../../.gitbook/assets/2.png) | ![](../../.gitbook/assets/3.png) |
+| ![](../../.gitbook/assets/1%20%281%29.png) | ![](../../.gitbook/assets/2.png) | ![](../../.gitbook/assets/3.png) |
 
 From: [London - Decentralised Decision Making - April 2019](https://docs.google.com/presentation/d/1coels2ur22VV9Hpmy02WTlYY-QIJ5rayWtv75hQYb8E/edit?usp=sharing)
 
